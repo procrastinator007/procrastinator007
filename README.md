@@ -25,7 +25,7 @@ I'm Batman! Just kidding 😂
  <br><h2> 📱 Contributions </h2> </br>
  ![Jai Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=procrastinator007&show_icons=true&theme=radical) 
  <br><h2> 📚 My Preffered Languages: </h2> </br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procrastinator007&layout=donut-vertical&show_icons=true&theme=radical)]
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procrastinator007&layout=donut-vertical&show_icons=true&theme=radical)
  <br><h2> 💻 Skills </h2> </br>
 <br/>
 <div align="center">
