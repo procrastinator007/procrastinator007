@@ -22,11 +22,6 @@ I'm Batman! Just kidding 😂
 - 📫 Linkedln: <a href="www.linkedin.com/in/jai-patel-asu">Jai Patel</a>
 - 🌻 My friends describe me as "Mr Know-it-all, dedicated, and a team player."
 
- <br><h2> 📱 Contributions </h2> </br>
- ![Jai Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=procrastinator007&show_icons=true&theme=radical) 
- [![Anurag's GitHub stats](https://github-readme-stats-84ia.vercel.app/api?username=procrastinator007)](https://github.com/procrastinator007/github-readme-stats)
- <br><h2> 📚 My Preffered Languages: </h2> </br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procrastinator007&layout=donut-vertical&show_icons=true&theme=radical)
  <br><h2> 💻 Skills </h2> </br>
 <br/>
 <div align="center">
