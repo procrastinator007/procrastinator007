@@ -18,7 +18,6 @@ I'm Batman! Just kidding 😂
 - ⭐ Recognized on Dean’s List every semester, recipient of the NAMU Scholarship. <b>CGPA 4.0/4.0</b>
 - 😁 Apart from coding, I love mixed chess, Cricket, F1 and a MUSIC ADDICT. 
 - 📧 My inbox is always open: <b>22jaipp@gmail.com</b>
-- 📫 Instagram: <a href="https://www.instagram.com/procrastinator.007/">@procrastinator.007</a>
 - 📫 Linkedln: <a href="www.linkedin.com/in/jai-patel-asu">Jai Patel</a>
 - 🌻 My friends describe me as "Mr Know-it-all, dedicated, and a team player."
 
